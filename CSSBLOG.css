@@ -1,0 +1,42 @@
+body
+{
+	margin: auto; 
+	border-style: solid;
+	border-width: 20px;
+	border-color: #bdc3c7;
+	padding: 20px;
+	width: 700px;
+}
+h3
+{
+	color: #3498db;
+}
+h1
+{
+	color: #2c3e50;
+}
+p
+{
+	font-family: source sans pro;
+}
+p:nth-of-type(3)
+{
+	border-bottom-style: solid;
+	border-bottom-color: #bdc3c7;
+	border-bottom-width: 1px;
+	padding-bottom: 15px;
+
+}
+.one
+{
+	border-left-style: solid;
+	border-left-color: #bdc3c7;
+	border-left-width: 5px;
+}
+.two
+{
+	border-left-style: solid;
+	border-left-color: #bdc3c7;
+	border-left-width: 5px;
+}
+}
