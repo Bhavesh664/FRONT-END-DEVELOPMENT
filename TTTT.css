@@ -1,0 +1,74 @@
+h1
+{
+	text-align: center;
+}
+td
+{
+	width: 100px;
+	height: 100px;
+}
+table
+ {
+	margin: auto;
+}
+.oneone
+{
+	border-right-width: 1px;
+	border-right-color: black;
+	border-right-style: solid;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+.onetwo
+{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-right-width: 1px;
+	border-right-color: black;
+	border-right-style: solid;
+}
+.onethree
+{
+	border-bottom-width: 1px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+}
+.twoone
+{
+	border-right-color: black;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+.twotwo
+{
+	border-right-color: black;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+
+}
+.twothree
+{
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1px
+}
+.threeone
+{
+	border-right-color: black;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+.threetwo
+{
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: black;
+}
