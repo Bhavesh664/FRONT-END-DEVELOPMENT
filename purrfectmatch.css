@@ -1,0 +1,28 @@
+body
+{
+	background-image: url("two.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%
+}
+nav 
+{
+	background-color: gold;
+	color: grey;
+}
+.content
+{
+	text-align: center;
+	padding-top: 37%
+}
+.content h3
+{
+	color: #1182dd;
+	border-bottom-style: solid;
+	border-bottom-width: 2.5px;
+	border-bottom-color: black;
+}
+.content h1
+{
+	color: #6f3eb0;
+}
